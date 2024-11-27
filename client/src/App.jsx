@@ -13,6 +13,10 @@ function App() {
      <h4>User2</h4>
      <h4>User3</h4>
      <p>Thank you</p>
+
+     <p>Git testing rebase and merge</p>
+
+
      </>
   )
 }
